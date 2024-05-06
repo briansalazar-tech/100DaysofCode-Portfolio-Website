@@ -1,0 +1,11 @@
+#homepage {
+    background-image: url("../images/site_images/homepage.png");
+    background-repeat: repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+#main {
+    padding-top: 16rem;
+    padding-bottom: 16rem;
+}
